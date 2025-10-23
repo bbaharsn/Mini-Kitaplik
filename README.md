@@ -1,1 +1,1 @@
-[Mini Kitaplık Projem](mini-kitaplik-zeta.vercel.app)
+[Mini Kitaplık Projem](https://mini-kitaplik-zeta.vercel.app)
